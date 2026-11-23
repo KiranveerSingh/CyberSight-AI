@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  CyberSight AI
 
 ### Enterprise Cyber Threat Analytics Platform using Machine Learning, SQL, Power BI & Streamlit
@@ -819,3 +820,6 @@ Guru Nanak Dev University, Amritsar
 - Email: **gurleenkaursandhu2210@gmail.com**
 
 ---
+=======
+"# practice" 
+>>>>>>> cfddfff6db54a654e6774b7f662532c05f8d8fea
