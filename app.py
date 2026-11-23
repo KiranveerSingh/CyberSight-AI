@@ -799,7 +799,7 @@ if page == "Home":
         font-size:15px;
         ">
 
-        © 2026 Gurleen Kaur • CyberSight AI • All Rights Reserved
+        © 2026 KiranveerSingh • CyberSight AI • All Rights Reserved
 
         </p>
 
@@ -1695,10 +1695,10 @@ if page == "About":
     <div class="metric-desc">
 
     <b>Name</b><br>
-    Gurleen Kaur<br><br>
+    Kiranveer Singh<br><br>
 
     <b>Degree</b><br>
-    B.Tech Electronics & Computer Engineering<br><br>
+    B.Tech Electronics & Communication Engineering<br><br>
 
     <b>Project</b><br>
     CyberSight AI - Enterprise Cyber Threat Analytics Platform<br><br>
@@ -1725,8 +1725,8 @@ if page == "About":
         <div class="dashboard-card">
         <div class="metric-title">📧 Email</div>
         <div class="metric-desc">
-        <a href="mailto:gurleenkaursandhu2210@gmail.com">
-        gurleenkaursandhu2210@gmail.com
+        <a href="mailto:mrrandhawa5234@gmail.com">
+        mrrandhawa5234@gmail.com
         </a>
         </div>
         </div>
@@ -1737,7 +1737,7 @@ if page == "About":
         <div class="dashboard-card">
         <div class="metric-title"> LinkedIn</div>
         <div class="metric-desc">
-        <a href="https://www.linkedin.com/in/gurleen-kaur-sandhu/" target="_blank">
+        <a href="www.linkedin.com/in/kiranveer-singh/" target="_blank">
         Visit Profile
         </a>
         </div>
@@ -1749,7 +1749,7 @@ if page == "About":
         <div class="dashboard-card">
         <div class="metric-title">💻 GitHub</div>
         <div class="metric-desc">
-        <a href="https://github.com/GurleenKaur00" target="_blank">
+        <a href="https://github.com/KiranveerSingh" target="_blank">
         View Repository
         </a>
         </div>

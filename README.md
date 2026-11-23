@@ -798,12 +798,12 @@ CyberSight AI can be further enhanced with several advanced capabilities, includ
 ---
 #  About the Author
 
-**Developed by:** Gurleen Kaur
+**Developed by:** Kiranveer Singh
 
-Final Year B.Tech (Electronics & Computer Engineering)  
+Final Year B.Tech (Electronics & Communication Engineering)  
 Guru Nanak Dev University, Amritsar
 
-### Technical Skills
+### Skills
 
 - Python
 - Machine Learning
@@ -811,13 +811,13 @@ Guru Nanak Dev University, Amritsar
 - Power BI
 - Streamlit
 - Data Analytics
-- Cybersecurity Analytics
 
 ### Connect With Me
 
-- GitHub: **https://github.com/GurleenKaur00**
-- LinkedIn: **https://www.linkedin.com/in/gurleen-kaur-sandhu/**
-- Email: **gurleenkaursandhu2210@gmail.com**
+- GitHub: *https://github.com/KiranveerSingh*
+- LinkedIn: *https://www.linkedin.com/in/kiranveer-singh*
+- Email: *mrrandhawa5234@gmail.com*
+
 
 ---
 =======
